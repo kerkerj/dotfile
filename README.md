@@ -1,3 +1,5 @@
+## **Deprecated**, please see [https://github.com/kerkerj/dotfiles](https://github.com/kerkerj/dotfiles)
+
 README 
 
 我的設定檔資料夾
